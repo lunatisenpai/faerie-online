@@ -1,0 +1,21 @@
+{
+  "name": "faerie-online",
+  "displayName": "faerie-online",
+  "description": "A variety of colors inspired by techno     and cyberpunk elements.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Faerie.Online",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Faerie.Online-color-theme.json"
+      }
+    ]
+  }
+}
