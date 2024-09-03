@@ -1,8 +1,14 @@
 {
+  "publisher": "FaerieOnline",
   "name": "faerie-online",
   "displayName": "faerie-online",
-  "description": "A variety of colors inspired by techno     and cyberpunk elements.",
+  "description": "A variety of colors inspired by techno and cyberpunk elements.",
   "version": "0.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lunatisenpai/faerie-online.git"
+  },
   "engines": {
     "vscode": "^1.92.0"
   },
